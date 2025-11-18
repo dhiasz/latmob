@@ -1,0 +1,294 @@
+ACHED log messages are omitted in official builds. Sorry!
+[1003/204929.348:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1006/022655.808:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1006/022655.835:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1006/022655.835:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1006/022655.835:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1006/022655.835:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1006/022656.000:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1006/022731.632:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1006/022930.153:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1006/193217.589:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1006/193217.589:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1006/193217.589:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1006/193217.589:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1006/193217.589:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1006/193217.717:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1006/193225.200:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1006/193423.846:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1007/075726.674:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1007/075726.675:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1007/075726.675:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1007/075726.675:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1007/075726.675:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1007/075726.696:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1007/075727.359:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1007/075927.261:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1007/202902.215:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1007/202902.215:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1007/202902.215:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1007/202902.215:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1007/202902.215:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1007/202902.231:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1007/202904.049:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1007/203103.377:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1008/075324.684:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1008/075324.695:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1008/075324.695:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1008/075324.695:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1008/075324.696:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1008/075324.745:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1008/075325.322:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1008/075525.303:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/191401.944:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1009/191402.016:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1009/191402.016:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1009/191402.016:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1009/191402.016:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1009/191402.049:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/191402.825:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/191602.755:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/194345.853:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1009/194345.853:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1009/194345.853:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1009/194345.853:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1009/194345.853:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1009/194345.871:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/194358.445:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/194558.227:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/194637.514:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1009/194637.515:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1009/194637.515:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1009/194637.515:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1009/194637.515:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1009/194637.562:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/194643.386:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1009/194849.066:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1010/215707.591:WARNING:crash_reporting.cc(271)] Failed to set crash key: UserID with value: 0
+[1010/215707.591:WARNING:crash_reporting.cc(271)] Failed to set crash key: BuildID with value: 1759433224
+[1010/215707.591:WARNING:crash_reporting.cc(271)] Failed to set crash key: SteamUniverse with value: Public
+[1010/215707.591:WARNING:crash_reporting.cc(271)] Failed to set crash key: Vendor with value: Valve
+[1010/215707.591:WARNING:crash_reporting.cc(271)] Failed to set crash key: Platform with value: Win32
+[1010/215707.612:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1010/215759.426:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1010/215922.745:ERROR:check.cc(376)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[1012/111231.547:WARN2025-10-19 07:23:28.121: [INFO][Sync] Reset engine, reason: 8
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Bookmarks
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Preferences
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Passwords
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Autofill
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Extensions
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Sessions
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Extension settings
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: History Delete Directives
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Device Info
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: User Consents
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Web Apps
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: History
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Collection
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Edge E Drop
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-19 07:23:28.121: [INFO][Sync] Stopped: Edge Wallet
+2025-10-19 07:23:28.121: [INFO][Sync] SyncState after authenticated was: NotSignedIn
+2025-10-19 07:23:28.475: [INFO][Sync] Reset engine, reason: 8
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Bookmarks
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Preferences
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Passwords
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Autofill
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Extensions
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Sessions
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Extension settings
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: History Delete Directives
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Device Info
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: User Consents
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Web Apps
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: History
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Collection
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Edge E Drop
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-19 07:23:28.475: [INFO][Sync] Stopped: Edge Wallet
+2025-10-19 07:26:44.942: [INFO][Sync] Reset engine, reason: 0
+2025-10-21 02:47:59.495: [INFO][Sync] Reset engine, reason: 8
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Bookmarks
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Preferences
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Passwords
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Autofill
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Extensions
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Sessions
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Extension settings
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: History Delete Directives
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Device Info
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: User Consents
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Web Apps
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: History
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Collection
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Edge E Drop
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-21 02:47:59.495: [INFO][Sync] Stopped: Edge Wallet
+2025-10-21 02:47:59.495: [INFO][Sync] SyncState after authenticated was: NotSignedIn
+2025-10-21 02:47:59.794: [INFO][Sync] Reset engine, reason: 8
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Bookmarks
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Preferences
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Passwords
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Autofill
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Extensions
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Sessions
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Extension settings
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: History Delete Directives
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Device Info
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: User Consents
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Web Apps
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: History
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Collection
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Edge E Drop
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-21 02:47:59.794: [INFO][Sync] Stopped: Edge Wallet
+2025-10-21 02:50:35.108: [INFO][Sync] Reset engine, reason: 0
+2025-10-26 15:16:49.766: [INFO][Sync] Reset engine, reason: 8
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Bookmarks
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Preferences
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Passwords
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Autofill
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Extensions
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Sessions
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Extension settings
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: History Delete Directives
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Device Info
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: User Consents
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Web Apps
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: History
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Collection
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Edge E Drop
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-26 15:16:49.766: [INFO][Sync] Stopped: Edge Wallet
+2025-10-26 15:16:49.766: [INFO][Sync] SyncState after authenticated was: NotSignedIn
+2025-10-26 15:16:50.261: [INFO][Sync] Reset engine, reason: 8
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Bookmarks
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Preferences
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Passwords
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Autofill
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Extensions
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Sessions
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Extension settings
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: History Delete Directives
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Device Info
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: User Consents
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Web Apps
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: History
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Collection
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Edge E Drop
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-26 15:16:50.261: [INFO][Sync] Stopped: Edge Wallet
+2025-10-26 16:50:55.722: [INFO][Sync] Reset engine, reason: 0
+2025-10-28 02:15:11.879: [INFO][Sync] Reset engine, reason: 8
+2025-10-28 02:15:11.879: [INFO][Sync] Stopped: Bookmarks
+2025-10-28 02:15:11.879: [INFO][Sync] Stopped: Preferences
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Passwords
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Autofill
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Extensions
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Sessions
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Extension settings
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: History Delete Directives
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Device Info
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: User Consents
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Web Apps
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: History
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Collection
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Edge E Drop
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-28 02:15:11.880: [INFO][Sync] Stopped: Edge Wallet
+2025-10-28 02:15:11.880: [INFO][Sync] SyncState after authenticated was: NotSignedIn
+2025-10-28 02:15:12.162: [INFO][Sync] Reset engine, reason: 8
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Bookmarks
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Preferences
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Passwords
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Autofill Profiles
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Autofill
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Extensions
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Sessions
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Extension settings
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: History Delete Directives
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Device Info
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: User Consents
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Send Tab To Self
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Web Apps
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: History
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Saved Tab Group
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Collection
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Edge E Drop
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-10-28 02:15:12.162: [INFO][Sync] Stopped: Edge Wallet
+2025-10-28 04:19:40.056: [INFO][Sync] Reset engine, reason: 0
+2025-11-11 02:49:29.196: [INFO][Sync] Reset engine, reason: 8
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Bookmarks
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Preferences
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Passwords
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Autofill Profiles
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Autofill
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Extensions
+2025-11-11 02:49:29.196: [INFO][Sync] Stopped: Sessions
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Extension settings
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: History Delete Directives
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Device Info
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: User Consents
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Send Tab To Self
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Web Apps
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: History
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Saved Tab Group
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Collection
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Edge E Drop
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-11-11 02:49:29.197: [INFO][Sync] Stopped: Edge Wallet
+2025-11-11 02:49:29.197: [INFO][Sync] SyncState after authenticated was: NotSignedIn
+2025-11-11 02:49:29.659: [INFO][Sync] Reset engine, reason: 8
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Bookmarks
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Preferences
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Passwords
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Autofill Profiles
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Autofill
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Extensions
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Sessions
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Extension settings
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: History Delete Directives
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Device Info
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: User Consents
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Send Tab To Self
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Web Apps
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: History
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Saved Tab Group
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: WebAuthn Credentials
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Collection
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Edge E Drop
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Edge Hub App Usage
+2025-11-11 02:49:29.659: [INFO][Sync] Stopped: Edge Wallet
+2025-11-11 05:12:28.473: [INFO][Sync] Reset engine, reason: 0
